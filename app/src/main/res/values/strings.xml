@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Birthday Card</string>
-    <string name="sender">"From, Adam Oates"</string>
+    <string name="sender">"From: Adam Oates"</string>
     <string name="receiversName">"Happy Birthday, Robert Oates"</string>
 
 </resources>
